@@ -1,0 +1,63 @@
+{
+  "Titles" : {
+    "Welcome" : "Bienvenido",
+    "Forgot Password" : "¿Olvidó su contraseña?",
+    "Check Email" : "Verifique su correo electrónico",
+    "Reset Password" : "Restablecer su contraseña"
+  },
+  "Descriptions" : {
+    "Forgot Password" : {
+      "Segment 1" : "Problemas para acceder a su cuenta?",
+      "Segment 2" : "Para restablecer su contraseña, introduzca su dirección de correo electrónico a continuación."
+    },
+    "Check Email" : {
+      "Segment 1" : "Si la dirección de correo electrónico que ha introducido está asociado a una cuenta de INTTRA, recibirá un correo electrónico con instrucciones para restablecer su contraseña.",
+      "Segment 2" : "No se puede encontrar el correo electrónico? Trate de comprobar que la carpeta de SPAM.",
+      "Segment 3" : "Todavía no puede acceder? Intentar",
+      "Segment 4" : "reenvíe el correo electrónico",
+      "Segment 5" : "o póngase en contacto con el administrador de la cuenta de INTTRA."
+    },
+    "Password Requirements" : {
+      "Title" : "Requisitos de contraseña",
+      "Requirement 1" : "Debe ser de 8 - 25 caracteres de longitud.",
+      "Requirement 2" : "Debe incluir al menos 1 número, letra mayúscula 1 y 1 letra minúscula.",
+      "Requirement 3" : "no debe incluir espacios o caracteres no compatibles.",
+      "Requirement 4" : "no debe incluir secuencias de teclado (ex. 12345678, asdfghjk).",
+      "Requirement 5" : "No debe ser una contraseña de uso común."
+    }
+  },
+  "Errors" : {
+    "Login Failed" : "La conexión falló debido a la inválido ID / E-mail o contraseña, por favor, inténtelo de nuevo.",
+    "Reset Password Failed" : "Contraseña falló, por favor, inténtelo de nuevo.",
+    "Passwords Not Equivalent" : "Las contraseñas no coinciden, por favor intente de nuevo."
+  },
+  "Messages" : {
+    "Password Reset" : "Su contraseña ha sido actualizada satisfactoriamente!"
+  },
+  "Form" : {
+    "Labels" : {
+      "Username" : "ID de usuario o correo electrónico",
+      "Password" : "Contraseña",
+      "Email" : "Correo electrónico",
+      "Remember Me" : "Recuérdame",
+      "Log In" : "Iniciar sesión",
+      "Submit" : "Enviar",
+      "Cancel" : "Cancelar",
+      "Return to Login" : "Regresar a inicio de sesión",
+      "New Password" : "Nueva contraseña",
+      "Confirm Password" : "Confirmar contraseña"
+    },
+    "Validation" : {
+      "Required" : "Requerido"
+    }
+  },
+  "Links" : {
+    "Forgot Password" : "¿Olvidaste la contraseña?",
+    "Create Account" : "¿Necesito una cuenta?"
+  },
+  "Footer" : {
+    "Rights Reserved" : "©2018 BroadSoft Todos los derechos reservados",
+    "Legal" : "Términos y condiciones legales",
+    "Privacy" : "Política de privacidad"
+  }
+}
