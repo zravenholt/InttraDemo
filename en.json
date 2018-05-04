@@ -1,0 +1,63 @@
+{
+  "Titles": {
+    "Welcome": "Welcome",
+    "Forgot Password": "Forgot Your Password?",
+    "Check Email": "Check Your Email",
+    "Reset Password": "Reset Your Password"
+  },
+  "Descriptions": {
+    "Forgot Password": {
+      "Segment 1": "Trouble logging into your account?",
+      "Segment 2": "To reset your password, enter your email address below."
+    },
+    "Check Email": {
+      "Segment 1": "If the email address you’ve entered is associated with an INTTRA account, you will receive an email with instructions for resetting your password.",
+      "Segment 2": "Can’t find the email? Try checking you SPAM folder.",
+      "Segment 3": "Still unable to sign in? Try to",
+      "Segment 4": "resend the email",
+      "Segment 5": "or contact your INTTRA account administrator."
+    },
+    "Password Requirements": {
+      "Title": "Password Requirements",
+      "Requirement 1": "Must be 8 - 25 characters in length.",
+      "Requirement 2": "Must include at least 1 number, 1 uppercase letter, and 1 lowercase letter.",
+      "Requirement 3": "Must not include spaces or unsupported characters.",
+      "Requirement 4": "Must not include keyboard sequences (ex. 12345678, asdfghjk).",
+      "Requirement 5": "Must not be a commonly used password."
+    }
+  },
+  "Errors": {
+    "Login Failed": "Login failed due to invalid User ID/Email or Password, please try again.",
+    "Reset Password Failed": "Reset Password failed, please try again.",
+    "Passwords Not Equivalent": "Passwords do not match, please try again."
+  },
+  "Messages": {
+    "Password Reset": "Your password has been successfully reset."
+  },
+  "Form": {
+    "Labels": {
+      "Username": "User ID or Email",
+      "Password": "Password",
+      "Email": "Email",
+      "Remember Me": "Remember Me",
+      "Log In": "Log In",
+      "Submit": "Submit",
+      "Cancel": "Cancel",
+      "Return to Login": "Return to Login",
+      "New Password": "New Password",
+      "Confirm Password": "Confirm Password"
+    },
+    "Validation": {
+      "Required": "Required"
+    }
+  },
+  "Links": {
+    "Forgot Password": "Forgot Password?",
+    "Create Account": "Need an Account?"
+  },
+  "Footer": {
+    "Rights Reserved": "2018 INTTRA. All rights reserved.",
+    "Legal": "Legal Terms & Conditions",
+    "Privacy": "Privacy Policy"
+  }
+}
